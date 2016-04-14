@@ -1,9 +1,9 @@
 <?php
-namespace sperad\http;
+namespace Phip\Http;
 
 class Curl {
 	
-	public function init()、
+	public function init()
 	{
 
 	}

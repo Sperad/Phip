@@ -1,9 +1,10 @@
 <?php
 namespace Phip\Http;
+
 /**
 * 
 */
-class Request
+class Http
 {
 	
 }
