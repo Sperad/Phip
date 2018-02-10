@@ -14,7 +14,19 @@
         }
     ],
     "require": {
-    	"php": ">=5.4"
+    	"php": ">=5.4",
+        "monolog/monolog": "^1.23",
+        "doctrine/cache": "^1.6",
+        "guzzlehttp/guzzle": "^6.3",
+        "nikic/fast-route": "^1.2",
+        "symfony/config": "^3.4",
+        "doctrine/dbal": "^2.5"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
     },
     "autoload": {
         "psr-4": {
